@@ -1,1 +1,1 @@
-# astronomical-computation-python
+# Astronomical Computation with Python
